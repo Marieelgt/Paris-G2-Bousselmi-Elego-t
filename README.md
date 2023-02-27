@@ -1,3 +1,3 @@
-# Paris-G2-Bousselmi-Elego-t
+# Paris-G2-Bousselmi-Elegoet
 
 wael bousselmi / Elegoët / Dubost / Monnier
