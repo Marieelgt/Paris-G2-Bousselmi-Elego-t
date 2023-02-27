@@ -10,4 +10,6 @@ print("holà ! Soy Marie. Me gusta escuchar la musica")
 print("hola Marie ! Te deseo la Bienvenida !")
 print("hola chicas! paella, sangria y playa!")
 print("no no no jose")
+print("no se bueno")
 print("hoy se sale!")
+
